@@ -1,3 +1,1 @@
-let greetings = "Hello world";
-
-console.log(greetings);
+function signup(name:string,num:number){}
